@@ -1,0 +1,49 @@
+MiracArd's Mod 1.0.2
+
+Eklenenler
+
+- MiracArd eklendi.
+
+- Ard Canavarı MiracArd'ye saldırıyor.
+
+Düzeltilenler
+
+- Ham Ard Cevheri, Ham Ard olarak düzeltildi.
+
+- Ard Cevheri (ingot), Ard olarak düzeltildi.
+
+- Ardsword, Ard Kılıcı olarak düzeltildi.
+
+MiracArd's Mod 1.0.1
+
+Eklenenler
+
+- Ard Portalı eklendi.
+
+- Ard Suyu eklendi.
+
+- Ard Magması ve Ard eklendi.
+
+- Ard Canavarı eklendi.
+
+MiracArd's Mod 1.0.0
+
+Eklenenler
+
+- Ard Cevheri (ingot) eklendi.
+
+- Ard Bloğu eklendi.
+
+- Ard Kreması eklendi.
+
+- Ham Ard Cevheri eklendi.
+
+- Ard Cevheri (ore) eklendi.
+
+- Ard Parçası eklendi.
+
+- Ard Zırhları eklendi.
+
+- Ard Çubuğu eklendi.
+
+- Ard Kılıcı Eklendi.
