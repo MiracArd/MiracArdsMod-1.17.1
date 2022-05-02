@@ -1,3 +1,9 @@
+MiracArd's Mod 1.0.3
+
+Eklenenler
+
+- Artık dünya, nether ve ard dünyasında yıkılmış ard portalları oluşacak.
+
 MiracArd's Mod 1.0.2
 
 Eklenenler
